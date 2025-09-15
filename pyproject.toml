@@ -1,15 +1,19 @@
 [project]
 name = "python-testing"
 version = "0.1.0"
-description = ""
+description = "A simple CLI expense tracker"
 authors = [
-    {name = "Keshavendra",email = "keshavendra.singh@oracle.com"}
+    {name = "kps",email = "kpsingh2607@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
 ]
+[tool.poetry.dependencies]
+python = "^3.10"
 
+[tool.poetry.dev-dependencies]
+pytest = "^7.0"
 [tool.poetry]
 packages = [{include = "python_testing", from = "src"}]
 
