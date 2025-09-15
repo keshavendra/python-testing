@@ -1,7 +1,7 @@
 [project]
 name = "python-testing"
 version = "0.1.0"
-description = "A simple CLI expense tracker"
+description = "project for python handson"
 authors = [
     {name = "kps",email = "kpsingh2607@gmail.com"}
 ]
