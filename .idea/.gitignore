@@ -18,3 +18,4 @@ __pycache__/
 .poetry
 .pytest_cache/
 *.sqlite3
+poetry.lock
