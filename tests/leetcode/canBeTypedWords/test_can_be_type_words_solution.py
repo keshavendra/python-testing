@@ -1,5 +1,5 @@
 from unittest import TestCase
-from src.python_testing.canBeTypedWords.Solution import Solution  # Replace 'your_module' with the actual module name
+from src.python_testing.leetcode.canBeTypedWords.Solution import Solution  # Replace 'your_module' with the actual module name
 
 
 class TestCanBeTypedWords(TestCase):
